@@ -1,11 +1,15 @@
-# LXR_Servo_Shield
+LXRobotics P14 ServoShield
+==========================
 
-Sämtliche Inhalte dieses Repositories stehen unter der CreativeCommons Lizenz CC BY-NC-SA 3.0 (Attribution-NonCommercial-ShareAlike 3.0 Unported)
+![LXRobotics P14 ServoShield](https://www.lxrobotics.com/wp-content/uploads/mz_product_page_servo_shield_side_small.jpg)
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/deed.de
+## Weitere Informationen / Further Information
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en
+* **DE:** https://www.lxrobotics.com/produkte/arduino-shields/servo-shield
+* **EN:** https://www.lxrobotics.com/en/products/arduino-shields/servo-shield
 
-Weitere Informationen unter:
+## Lizenz / License
+SÃ¤mtliche Inhalte dieses Repositories stehen unter der CreativeCommons Lizenz CC BY-NC-SA 4.0 (Attribution-NonCommercial-ShareAlike 4.0 Unported)
 
-http://www.lxrobotics.com/produkte/arduino-shields/servo-shield
+* **DE:** http://creativecommons.org/licenses/by-nc-sa/4.0/deed.de
+* **EN:** http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
