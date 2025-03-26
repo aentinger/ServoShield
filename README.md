@@ -6,7 +6,7 @@
 
 # 📸 Image
 
-![LXRobotics P14 ServoShield](https://raw.githubusercontent.com/lxrobotics/ServoShield/master/images/servo-shield-side-small.JPG)
+![LXRobotics P14 ServoShield](images/servo-shield-side-small.JPG)
 
 # 📂 Description
 
